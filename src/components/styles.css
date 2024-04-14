@@ -281,8 +281,9 @@
  .theme-light .fiat-crypto-table td a {
 	 color: #000;
 }
+
  .theme-light .fiat-crypto-table tbody tr {
-	 background-color: #f8f9fa;
+	 background-color: #0e7ceb;
 }
  .theme-light .fiat-crypto-table tbody td:first-child {
 	 border-radius: 10px 0 0 10px;
